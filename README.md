@@ -1,1 +1,1 @@
-# sufiyan-daily-progress
+# daily-progress
